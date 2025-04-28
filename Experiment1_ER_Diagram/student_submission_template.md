@@ -1,4 +1,4 @@
-# ER Diagram Submission - Student Name Kavya.V
+# ER Diagram Submission - Kavya.V
 
 ## Scenario Chosen:
 Hospital
